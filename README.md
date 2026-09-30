@@ -1,5 +1,24 @@
 # Lavender (RISE)
 
+<!-- dwgx-banner:BEGIN -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/assets/banner.svg?t=31bf577e5f5f" />
+  <source media="(prefers-color-scheme: light)" srcset="docs/assets/banner-light.svg?t=31bf577e5f5f" />
+  <img src="docs/assets/banner.svg?t=31bf577e5f5f" width="100%" alt="Lavender-rise-main — 很久以前做梦做的 Minecraft 客户端 · 早已停更，为了当年造它的人重新发布" />
+</picture>
+
+<br/>
+
+Java · AGPL-3.0 · ★10
+
+[issues](https://github.com/dwgx/Lavender-rise-main/issues)
+
+</div>
+<!-- dwgx-banner:END -->
+
+
 **Minecraft 1.8.x 模块化作弊客户端 | Modular cheat client for Minecraft 1.8.x**
 
 ---

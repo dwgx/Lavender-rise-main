@@ -1,0 +1,14 @@
+# repo-kit · 本仓库的 banner 规格
+# 改这个文件，workflow 会重新渲染 docs/assets/banner*.svg 与 README 区块
+# 生成器：https://github.com/dwgx/DWGX/tree/main/repo-kit
+owner = "dwgx"
+
+[[repo]]
+name = "Lavender-rise-main"
+style = "tree"
+tagline = "很久以前做梦做的 Minecraft 客户端 · 早已停更，为了当年造它的人重新发布"
+install = ""
+lang = "Java"
+license = "AGPL-3.0"
+topics = ["java", "legacy-project", "minecraft-client"]
+links = [{ label = "issues", url = "https://github.com/dwgx/Lavender-rise-main/issues" }]
