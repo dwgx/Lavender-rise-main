@@ -4,9 +4,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="docs/assets/banner.svg?t=31bf577e5f5f" />
-  <source media="(prefers-color-scheme: light)" srcset="docs/assets/banner-light.svg?t=31bf577e5f5f" />
-  <img src="docs/assets/banner.svg?t=31bf577e5f5f" width="100%" alt="Lavender-rise-main — 很久以前做梦做的 Minecraft 客户端 · 早已停更，为了当年造它的人重新发布" />
+  <source media="(prefers-color-scheme: dark)" srcset="docs/assets/banner.svg?t=cb288df8dcf3" />
+  <source media="(prefers-color-scheme: light)" srcset="docs/assets/banner-light.svg?t=cb288df8dcf3" />
+  <img src="docs/assets/banner.svg?t=cb288df8dcf3" width="100%" alt="Lavender-rise-main — 很久以前做梦做的 Minecraft 客户端 · 早已停更，为了当年造它的人重新发布" />
 </picture>
 
 <br/>
